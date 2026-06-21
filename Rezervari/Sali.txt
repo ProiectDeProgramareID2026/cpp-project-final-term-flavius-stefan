@@ -1,0 +1,3 @@
+Sala_Mica 12
+Sala_Medie 40
+Sala_Mare 150
