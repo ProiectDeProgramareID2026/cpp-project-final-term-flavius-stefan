@@ -1,0 +1,5 @@
+Sala_Mare|150
+Sala_Mica|15
+Sala Mare Conferinte|200
+mica|190
+mica mare|190
